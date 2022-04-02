@@ -6,3 +6,4 @@
 # itt baj lesz
 # hatodik
 # új sor ebéd után a Visual Studio-ban
+# tesztelés ágon vagyunk
