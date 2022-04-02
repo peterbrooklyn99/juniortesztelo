@@ -7,3 +7,6 @@
 # hatodik
 # új sor ebéd után a Visual Studio-ban
 # tesztelés ágon vagyunk
+# wow, én lefagytam. 
+# mit is kell az után csinálni hogy ide beleírtam
+# faster
